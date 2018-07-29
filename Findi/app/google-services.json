@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "401097620982",
+    "firebase_url": "https://finditestbuild.firebaseio.com",
+    "project_id": "finditestbuild",
+    "storage_bucket": "finditestbuild.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:401097620982:android:3d45782e8a262831",
+        "android_client_info": {
+          "package_name": "com.example.steph.findi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "401097620982-q7r939qlevuok3ur3esbmq1s1uq1okn1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.steph.findi",
+            "certificate_hash": "20b08e7b8fd82f871e542e03fac8e4b741bfcd8b"
+          }
+        },
+        {
+          "client_id": "401097620982-23jlh1tp1aertkjlgg74tf4inmqo992q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCM-KoqeG2Vp1x5VBD0m7ZaBpTFjE_F-6Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "401097620982-23jlh1tp1aertkjlgg74tf4inmqo992q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
