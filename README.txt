@@ -1,0 +1,1 @@
+This repository contains some projects I have worked over the past few years.
